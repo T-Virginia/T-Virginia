@@ -1,6 +1,6 @@
 # 👋 Ciao, sono [Il tuo nome]
 
-💻 Junior Backend Developer, lavoro principalmente con PHP e CodeIgniter
+💻 Junior Backend Developer, lavoro principalmente con PHP e CodeIgniter.
 Lavoro su applicazioni web e continuo a migliorare le mie competenze attraverso progetti pratici e studio costante.
 
 ---
