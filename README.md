@@ -46,8 +46,7 @@ Il mio focus è su backend, DevOps e performance delle applicazioni, con l’obi
 ## 📂 Progetti
 
 - 🧳 **Tour Operator** – Front-end con Bootstrap (layout responsive)
-- ⚙️ **Progetti PHP base** – esercizi di backend e logica applicativa
-- 👋 **Hello repo** – esercitazione su Git e GitHub workflow
+- ⚙️ **Real Estate Project** – esercizi di backend e logica applicativa
 
 ---
 
