@@ -7,9 +7,9 @@ Lavoro su applicazioni web e continuo a migliorare le mie competenze attraverso 
 ## 🚀 Focus attuale
 
 - Sviluppo backend con PHP e CodeIgniter  
-- Studio di JavaScript per il front-end  
 - Approfondimento Laravel per applicazioni moderne  
-- Esplorazione DevOps e processi di deployment  
+- Studio di Flutter per lo sviluppo mobile  
+- Approfondimento DevOps e processi di deployment  
 
 ---
 
