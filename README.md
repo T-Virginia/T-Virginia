@@ -1,6 +1,6 @@
 # 👋 Ciao, sono [Il tuo nome]
 
-💻 Junior Backend Developer con esperienza in PHP e CodeIgniter.  
+💻 Junior Backend Developer, lavoro principalmente con PHP e CodeIgniter
 Lavoro su applicazioni web e continuo a migliorare le mie competenze attraverso progetti pratici e studio costante.
 
 ---
@@ -47,6 +47,7 @@ Il mio focus è su backend, DevOps e performance delle applicazioni, con l’obi
 
 - 🧳 **Tour Operator** – Front-end con Bootstrap (layout responsive)
 - ⚙️ **Progetti PHP base** – esercizi di backend e logica applicativa
+- 👋 **Hello repo** – esercitazione su Git e GitHub workflow
 
 ---
 
