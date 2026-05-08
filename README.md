@@ -1,6 +1,6 @@
 # 👋 Ciao, sono Virginia
 
-💻 Junior Backend Developer con focus su PHP.
+💻 Junior Backend Developer, attualmente lavoro con PHP.
 Sto costruendo il mio percorso attraverso progetti pratici, con l’obiettivo di sviluppare applicazioni web complete e ben strutturate.
 
 ---
