@@ -1,21 +1,27 @@
-# 👋 Ciao, sono Virginia
+# 👋 Ciao, sono [Il tuo nome]
 
-💻 Junior Backend Developer, attualmente lavoro con PHP.
-Sto costruendo il mio percorso attraverso progetti pratici, con l’obiettivo di sviluppare applicazioni web complete e ben strutturate.
-
----
-
-## 🚀 Su cosa sto lavorando
-
-Attualmente mi sto concentrando su:
-
-* Sviluppo backend in PHP
-* Studio di Laravel per applicazioni moderne e scalabili
-* Esplorazione di Flutter per lo sviluppo mobile
+💻 Junior Backend Developer con esperienza in PHP e CodeIgniter.  
+Lavoro su applicazioni web e continuo a migliorare le mie competenze attraverso progetti pratici e studio costante.
 
 ---
 
-## 🛠️ Tecnologie
+## 🚀 Focus attuale
+
+- Sviluppo backend con PHP e CodeIgniter  
+- Studio di JavaScript per il front-end  
+- Approfondimento Laravel per applicazioni moderne  
+- Esplorazione DevOps e processi di deployment  
+
+---
+
+## 🧠 Approccio
+
+Mi interessa comprendere il funzionamento delle tecnologie anche “sotto il cofano”, per scrivere codice più consapevole e strutturato.
+
+Il mio focus è su backend, DevOps e performance delle applicazioni, con l’obiettivo di migliorare la comprensione e l’efficienza del software.
+
+---
+
 ## 🛠️ Tecnologie
 
 ### 🎨 Front-end
@@ -26,8 +32,9 @@ Attualmente mi sto concentrando su:
 
 ---
 
-### ⚙️ Back-end
+### ⚙️ Backend
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
 
 ---
 
@@ -38,21 +45,15 @@ Attualmente mi sto concentrando su:
 
 ## 📂 Progetti
 
-Qui su GitHub puoi trovare alcuni progetti sviluppati durante il mio percorso formativo:
-
-* 🧳 **Tour Operator (Front-End)**
-  Interfaccia web realizzata con HTML, CSS e Bootstrap
-
-* ⚙️ **Progetto PHP base**
-  Applicazione back-end sviluppata per esercitarmi con logica e gestione dati
+- 🧳 **Tour Operator** – Front-end con Bootstrap (layout responsive)
+- ⚙️ **Progetti PHP base** – esercizi di backend e logica applicativa
 
 ---
 
 ## 📈 Obiettivo
 
-Continuare a crescere come sviluppatore backend, migliorando la qualità del codice e lavorando su progetti sempre più completi, fino a sviluppare applicazioni full-stack.
+Crescere come sviluppatore backend e costruire applicazioni reali, scalabili e ben strutturate, evolvendo progressivamente verso framework moderni come Laravel.
 
 ---
 
-In continua crescita, con l’obiettivo di costruire applicazioni sempre più complete.
-
+💡 Sempre in crescita, un progetto alla volta.
