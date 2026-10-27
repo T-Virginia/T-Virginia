@@ -1,58 +1,28 @@
-# 👋 Ciao, sono Virginia
-💻 Junior Backend Developer, lavoro principalmente con PHP e CodeIgniter.
-Lavoro su applicazioni web e continuo a migliorare le mie competenze attraverso progetti pratici e studio costante.
+# Ciao! 👋
 
----
+Sono una **Junior Backend Developer** e lavoro principalmente con PHP e CodeIgniter.
 
-## 🚀 Focus attuale
+Mi piace capire come funzionano le cose, non solo a livello di codice, ma anche tutto quello che succede dietro le quinte. Attualmente sto approfondendo **Laravel e Tailwind CSS** attraverso ThreatScope, un progetto che mi permette di mettere in pratica ciò che imparo.
 
-- Sviluppo backend con PHP e CodeIgniter  
-- Approfondimento Laravel per applicazioni moderne  
-- Studio di Flutter per lo sviluppo mobile  
-- Approfondimento DevOps e processi di deployment  
-
----
-
-## 🧠 Approccio
-
-Mi interessa comprendere il funzionamento delle tecnologie anche “sotto il cofano”, per scrivere codice più consapevole e strutturato.
-
-Il mio focus è su backend, DevOps e performance delle applicazioni, con l’obiettivo di migliorare la comprensione e l’efficienza del software.
-
----
+Parallelamente, sto studiando Internet, reti e protocolli, con l'interesse di avvicinarmi gradualmente al mondo della cybersecurity.
 
 ## 🛠️ Tecnologie
 
-### 🎨 Front-end
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+- **Backend:** PHP, Laravel, CodeIgniter
+- **Frontend:** HTML, CSS, Bootstrap, Tailwind CSS
+- **Database:** MySQL
 
----
+## 🔎 Cosa sto approfondendo
 
-### ⚙️ Backend
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
+- Sviluppo backend con Laravel
+- Realizzazione di interfacce con Tailwind CSS
+- Funzionamento di Internet, reti e protocolli
+- Cybersecurity e analisi della reputazione degli indirizzi IP
 
----
+## 🚀 Progetti
 
-### 🗄️ Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+- **[ThreatScope](https://github.com/T-Virginia/ThreatScope)** — un progetto sviluppato con Laravel per analizzare la reputazione degli indirizzi IP tramite AbuseIPDB.
+- **[Real Estate Project](https://github.com/T-Virginia/real-estate-project)** — un progetto realizzato in PHP nativo.
+- **[Tour Operator](https://github.com/T-Virginia/Tour-Operator)** — un progetto web realizzato con HTML, CSS e Bootstrap.
 
----
-
-## 📂 Progetti
-
-- 🧳 **Tour Operator** – Front-end con Bootstrap (layout responsive)
-- ⚙️ **Real Estate Project** – esercizi di backend e logica applicativa
-
----
-
-## 📈 Obiettivo
-
-Crescere come sviluppatore backend e costruire applicazioni reali, scalabili e ben strutturate, evolvendo progressivamente verso framework moderni come Laravel.
-
----
-
-💡 Sempre in crescita, un progetto alla volta.
+Sto costruendo il mio percorso un progetto alla volta, cercando di consolidare le mie competenze e capire sempre meglio cosa succede *sotto il cofano*.
