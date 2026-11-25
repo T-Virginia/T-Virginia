@@ -25,4 +25,19 @@ Parallelamente, sto studiando Internet, reti e protocolli, con l'interesse di av
 - **[Real Estate Project](https://github.com/T-Virginia/real-estate-project)** — un progetto realizzato in PHP nativo.
 - **[Tour Operator](https://github.com/T-Virginia/Tour-Operator)** — un progetto web realizzato con HTML, CSS e Bootstrap.
 
+## 📚 Formazione & Certificazioni Cisco
+
+![Cisco Networking Academy](https://img.shields.io/badge/Cisco%20Networking%20Academy-049FD9?style=for-the-badge&logo=cisco&logoColor=white)
+
+### 🏆 Certificati ottenuti
+- ✅ **[Getting Started with Cisco Packet Tracer]** — *Cisco Networking Academy* ([ID_certificato](5600ce31-883e-44be-8076-eee9d41a927c))
+- ✅ **[Introduzione alla cyber security]** — *Cisco Networking Academy* ([Verifica Badge](https://www.credly.com/badges/2ef4a4bb-7151-4da4-8ceb-45b2e8dca78e))
+
+### 🌱 In corso & Laboratori
+- 🌐 **Networking Basics** — *Cisco Networking Academy*
+  - Studio delle architetture di rete, modelli OSI/TCP-IP, indirizzamento IPv4/IPv6, subnetting e configurazione base di router e switch.
+  - 🛠️ **Pratica:** [Appunti e laboratori su Cisco Packet Tracer](https://github.com/T-Virginia/cisco-networking-labs)
+
+---
+
 Sto costruendo il mio percorso un progetto alla volta, cercando di consolidare le mie competenze e capire sempre meglio cosa succede *sotto il cofano*.
