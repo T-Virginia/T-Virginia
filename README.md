@@ -1,6 +1,6 @@
 # Ciao! 👋
 
-Sono una **Junior Backend Developer** e lavoro principalmente con PHP e CodeIgniter.
+Sono una **Backend Developer** e lavoro principalmente con PHP e CodeIgniter.
 
 Mi piace capire come funzionano le cose, non solo a livello di codice, ma anche tutto quello che succede dietro le quinte. Attualmente sto approfondendo **Laravel e Tailwind CSS** attraverso ThreatScope, un progetto che mi permette di mettere in pratica ciò che imparo.
 
